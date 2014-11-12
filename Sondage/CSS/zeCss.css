@@ -1,0 +1,58 @@
+.contenu{
+    border-radius: 3%;
+    background-color: #f6fff4;
+    text-align: center;
+    width: 50%;
+    margin-left: 24%;
+    margin-top: 5%;
+    border:black 1px solid;
+    padding: 1%;
+
+}
+body{
+    background-color: #ffda97;
+    text-align: center;
+}
+
+.button{
+    background-color: red;
+    color:white;
+    width: 25%;
+    margin-left: 37.5%;
+    border: solid black 2px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: #0004ff;
+    color: #ffffff;
+}
+a{
+    text-decoration: none;
+}
+#graphique{
+    width: 100px;
+}
+#zetableau{
+    margin-left: auto;
+    margin-right: auto;
+}
+#Animal0{
+    background-color: #0004ff;
+    height: 100%;
+}
+#Animal1{
+    background-color: #0004ff;
+    height: 100%;
+}
+#Animal2{
+    background-color: #0004ff;
+    height: 100%;
+}
+#Animal3{
+    background-color: #0004ff;
+    height: 100%;
+}
+#Animal4{
+    background-color: #0004ff;
+    height: 100%;
+}
